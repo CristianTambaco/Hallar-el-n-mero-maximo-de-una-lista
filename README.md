@@ -1,1 +1,1 @@
-# Hallar-el-n-mero-maximo-de-una-lista
+# Hallar-el-numero-maximo-de-una-lista
